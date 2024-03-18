@@ -35,7 +35,7 @@ scripts:
       cpu: 1.0
       memory: "16G"
 credentialFile: google_write_creds
-vaultPrefixPath: secret/rubin/usdf-rubintv-broadcaster-cleanroom
+vaultPrefixPath: secret/rubin/usdf-rapid-analysis-dev
 pullSecretsPath: ts/software/nexus3-docker
 rubinTvSecretsPath: ts/software/rubintv
 credentialSecretsPath: rubintv-broadcaster
